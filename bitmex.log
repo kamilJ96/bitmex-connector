@@ -1,0 +1,4 @@
+Websocket connected.
+{"info":"Welcome to the BitMEX Realtime API.","version":"2019-06-26T00:46:12.000Z","timestamp":"2019-06-30T01:55:45.655Z","docs":"https://www.bitmex.com/app/wsAPI","limit":{"remaining":35}}
+{"success":true,"subscribe":"orderBookL2:XBTUSD","request":{"op":"subscribe","args":"orderBookL2:XBTUSD"}}
+Connection closed: 1009
